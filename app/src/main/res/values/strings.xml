@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyDay</string>
+    <string name="version_no">v0.1</string>
+    <string name="img_app_desc">Personal Jounal/Diary</string>
+    <string name="app_quote">Your Diary,Your Companion</string>
+
+    <string name="landing_quote">Your Life Companion</string>
+    <string name="landing_description">Diary is a place to keep your memories and confide in privately</string>
+    <string name="landing_start">GET STARTED</string>
+
+    <string name="landing2_quote">Safe and Private</string>
+    <string name="landing2_description">Your Diary belongs to you. Add Passcode to keep your diary private.</string>
+    <string name="landing2_add_passcode">Add Passcode</string>
+    <string name="landing2_skip">SKIP</string>
+
+    <string name="sign_in_later">LATER</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
